@@ -12,8 +12,11 @@ https://mybinder.org/
 
 https://mybinder.org/v2/gh/hkrobotdata/CNN.git/HEAD?filepath=CNN.ipynb
 
-new>python3>open file>CNN.ipynb
+## Creation of binder link for a notebook
 
+1. go to https://mybinder.org/
+2. fill in the path to the repository where the notebook locates
+3. fill in the file name of the notebook
 ----------------------------------------------------------------------------------------------------------------
 
 https://mybinder.org/v2/gh/hkrobotdata/binder-python/HEAD
