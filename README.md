@@ -10,7 +10,7 @@ https://mybinder.org/
 ----------------------------------------------------------------------------------------------------------------
 # Launch CNN.ipynb
 
-https://mybinder.org/v2/gh/hkrobotdata/CNN/21142cd0bd3afa5a2f3666cf01bfbeb47e0ebc04
+https://mybinder.org/v2/gh/hkrobotdata/CNN/CNN.ipynb
 
 ----------------------------------------------------------------------------------------------------------------
 
