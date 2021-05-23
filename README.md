@@ -10,7 +10,7 @@ https://mybinder.org/
 ----------------------------------------------------------------------------------------------------------------
 # Launch CNN.ipynb
 
-https://mybinder.org/v2/gh/hkrobotdata/CNN/3.6
+https://mybinder.org/v2/gh/hkrobotdata/CNN.git/HEAD?filepath=CNN.ipynb
 
 new>python3>open file>CNN.ipynb
 
